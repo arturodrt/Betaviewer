@@ -2,7 +2,7 @@
 
 Betaviewer is a visualizer tool designed to work with the STMicroelectronics VL53L7CX 8x8 Multi-Zone Time-of-Flight Sensor. It utilizes dear imgui, a bloat-free graphical user interface library, to provide an intuitive and user-friendly interface for visualizing the data from the sensor.
 
-![Alt text](imgs/betaviewer.jpg)
+![Alt text]([imgs/betaviewer.jpg](https://github.com/arturodrt/Betaviewer/blob/main/imgs/BetaViewer.jpg))
 
 
 ## Features
@@ -11,7 +11,7 @@ Betaviewer is a visualizer tool designed to work with the STMicroelectronics VL5
 - Graphical representation of multi-zone time-of-flight measurements.
 - Easy-to-use interface powered by dear imgui.
 
-![Alt text](imgs/betaviewer2.png)
+![Alt text]([imgs/betaviewer2.png](https://github.com/arturodrt/Betaviewer/blob/main/imgs/BetaViewer2.png))
 
 
 ## Requirements
